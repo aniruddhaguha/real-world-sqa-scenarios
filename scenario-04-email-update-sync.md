@@ -27,7 +27,7 @@ A user updates their email address in their profile successfully. The UI shows t
 
 ### Cache Invalidation Testing
 - After email update, check if the API still returns the old email for a short period (cache hit).
-- Force a cache flush and retest — does the new email appear immediately?
+- Force a cache flash and retest — does the new email appear immediately?
 - Simulate a scenario where the cache TTL is very long (e.g., 24 hours) and verify that email communications use the cached (old) email during that window.
 
 ### Third-Party Email Service Sync Testing

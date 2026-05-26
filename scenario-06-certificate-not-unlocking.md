@@ -1,7 +1,7 @@
 # Scenario 06: Videos Show 100% Complete but Certificate Remains Locked
 
 ## Scenario
-
+    
 An online learning platform tracks video progress and unlocks certificates when **100% of the course is completed.** Many users report that their videos show **fully watched**, but certificates remain locked even after refreshing and re-logging.
 
 ---

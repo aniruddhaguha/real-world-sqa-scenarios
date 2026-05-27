@@ -4,6 +4,7 @@
 
 A user logs out of the mobile app and closes it completely. When **reopening the app later**, they are **automatically logged in again** without entering credentials.
 
+
 ---
 
 ## Assumptions

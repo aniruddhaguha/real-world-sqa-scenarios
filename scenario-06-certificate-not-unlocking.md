@@ -64,3 +64,4 @@ An online learning platform tracks video progress and unlocks certificates when 
 - **Data integrity risk:** Progress data shown in UI does not match what the backend uses for certificate evaluation.
 - **Scalability risk:** If certificate unlocking is batch-based, delays worsen under high user load.
 - **Compliance risk:** For professional certifications, incorrect issuance or denial of certificates may have regulatory implications.
+

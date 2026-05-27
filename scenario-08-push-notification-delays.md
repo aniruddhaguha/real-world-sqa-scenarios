@@ -4,6 +4,7 @@
 
 Push notifications arrive immediately for some users, but for others they arrive **hours later or not at all.** This issue is inconsistent across devices, OS versions, and internet speeds.
 
+
 ---
 
 ## Assumptions

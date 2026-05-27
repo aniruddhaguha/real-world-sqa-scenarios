@@ -15,6 +15,7 @@ Uploading **small images works perfectly**, but uploading **large images freezes
 - No crash logs appear because the failure happens client-side (memory exhaustion, timeout) before the request reaches the server.
 - No user-facing error is shown because there is no proper error handling for this case.
 
+
 ---
 
 ## Test Ideas

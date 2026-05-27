@@ -65,3 +65,4 @@ A food delivery app confirms payment and shows the order as **"Placed Successful
 - **Customer support bottleneck:** Support sees payment but cannot find order — manual investigation required.
 - **Scalability risk:** Under high load, the message queue or order service may drop events more frequently.
 - **Regulatory/compliance risk:** Charging customers without delivering service may violate payment regulations.
+

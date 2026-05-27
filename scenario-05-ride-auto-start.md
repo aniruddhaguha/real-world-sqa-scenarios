@@ -54,6 +54,7 @@ In a ride-sharing app, some rides start automatically without the driver clickin
 - Timer-based fallback: if "Start Trip" is not pressed within N minutes, the system auto-starts (poor design, but possible).
 - Stale event in a message queue processed after network reconnect triggers start.
 
+
 ---
 
 ## Risks

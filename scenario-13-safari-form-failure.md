@@ -14,6 +14,7 @@ A form submission **works perfectly in Chrome and Edge** but **fails silently in
 - "Fails silently" means Safari does not display an error in the UI, and no data reaches the server.
 - The issue may be related to Safari's stricter privacy policies, ITP (Intelligent Tracking Prevention), or missing polyfills.
 
+
 ---
 
 ## Test Ideas
@@ -53,6 +54,7 @@ A form submission **works perfectly in Chrome and Edge** but **fails silently in
 - Date input fields send differently formatted values in Safari — server validation fails silently.
 - Safari enforces a stricter Mixed Content policy — HTTPS page submitting to HTTP endpoint is blocked.
 - Safari auto-fill populates fields in a way the JavaScript validation doesn't expect — form appears complete but fails the check.
+
 
 ---
 

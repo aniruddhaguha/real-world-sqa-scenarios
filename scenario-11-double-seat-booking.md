@@ -4,6 +4,7 @@
 
 A movie ticket booking system allows **two users to reserve the same seat at the exact same time** during peak hours. Both users receive confirmation messages, but only one can enter the hall.
 
+
 ---
 
 ## Assumptions

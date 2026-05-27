@@ -63,3 +63,4 @@ A user updates their email address in their profile successfully. The UI shows t
 - **Data quality risk:** Fragmented email data across systems leads to unreliable communication and analytics.
 - **Support overhead:** Users contact support about receiving emails on old addresses — manual correction required.
 - **Deliverability risk:** If old email is no longer valid, email bounces damage sender reputation and deliverability scores.
+

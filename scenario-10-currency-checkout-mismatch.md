@@ -52,7 +52,6 @@ An e-commerce platform allows users to change currency (USD, EUR, BDT). After sw
 - User has EUR selected, adds items to cart, currency switches to BDT (automatically on geo-location change), then proceeds to checkout — which currency is used?
 - User on mobile app changes currency — changes not reflected in active web session (and vice versa).
 - Promotional discount is applied in old currency and not recalculated after currency switch.
-
 ---
 
 ## Risks
@@ -63,3 +62,4 @@ An e-commerce platform allows users to change currency (USD, EUR, BDT). After sw
 - **Revenue risk:** Users who discover the mismatch at checkout may abandon their purchase.
 - **International market risk:** Multi-currency support is critical for global platforms — inconsistency limits market viability.
 - **Fraud risk:** If checkout consistently charges in a weaker currency, sophisticated users may exploit this intentionally.
+
